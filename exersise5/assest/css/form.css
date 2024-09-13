@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+h1,h3,input,label{
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    color: white;
+    margin-left: 20px;
+    margin-top: 8px;
+}
+select,textarea{
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    color: rgb(85, 87, 88);
+    margin-left: 20px;
+    margin-top: 8px;
+
+}
+
+.form{
+    width: 500px;
+    height: 800px;
+    border: 2px;
+    background-color: #2a0f62;
+    margin-left: 160px;
+    
+     
+}

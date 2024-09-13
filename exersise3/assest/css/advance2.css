@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 100px;
+  }
+  
+  .hero-image {
+    background-image: url("~/assest/images/laptop.png");
+    background-color: #1fd2c3;
+    height: 400px;
+    width: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+    
+  }
+  
+  .hero-text {
+   
+    position: absolute;
+    color: rgb(203, 23, 23);
+    
+  }
